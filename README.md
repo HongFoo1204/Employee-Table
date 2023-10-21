@@ -1,3 +1,15 @@
+# Tech Stack
+
+- TypeScript
+- React
+- Next.js
+- TailwindCSS
+
+## Extra Work
+
+- Simulate Backend API by create Next.js api
+- The employees data are store in /data/employees.json
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
